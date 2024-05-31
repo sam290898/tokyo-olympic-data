@@ -1,1 +1,1 @@
-# tokyo-olympic-data
+# Tokyo Olympic Data
